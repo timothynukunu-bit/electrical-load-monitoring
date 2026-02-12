@@ -543,4 +543,5 @@ string getValidString(string prompt)
     }
 }/ /   A d d e d   d i s p l a y   f u n c t i o n  
  / /   W e e k   1   c o m p l e t e  
+ / /   A d d e d   t o t a l   e n e r g y   c a l c u l a t i o n  
  
