@@ -6,8 +6,8 @@
  * File Name: main.cpp
  *
  * AUTHOR INFORMATION:
- * Name: [FRIEND'S NAME]
- * Index: [FRIEND'S INDEX]
+ * Name: DZORGBENU TIMOTHY KWABLA
+ * Index: 01243816D
  * GitHub Username: [FRIEND'S USERNAME]
  * Programme: HND Electrical Engineering
  * Course: EEE 227 (PT) - Programming for Electrical Engineering
