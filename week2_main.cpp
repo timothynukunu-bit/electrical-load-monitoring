@@ -1,7 +1,7 @@
 /*
  * ELECTRICAL LOAD MONITORING SYSTEM
- * Author: LOVE FOBI
- * Index: 01240239D
+ * Author: DZORGBENU KWABLA TIMOTHY
+ * Index: 01243816D
  * Course: EEE 227
  * Week 2: Energy Calculation Added
  * Date: February 11, 2026
