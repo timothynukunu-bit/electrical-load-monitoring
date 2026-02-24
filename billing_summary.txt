@@ -2,8 +2,8 @@
                  BILLING SUMMARY
 =========================================================
 Date: Tue Feb 24 12:05:42 2026
-Author: [FRIEND'S NAME]
-Index: [FRIEND'S INDEX]
+Author: DZORGBENU TIMOTHY KWABLA
+Index: 01243816D
 Course: EEE 227
 ---------------------------------------------------------
 Tariff: GHS 0.19 per kWh
