@@ -8,7 +8,7 @@
  * AUTHOR INFORMATION:
  * Name: DZORGBENU TIMOTHY KWABLA
  * Index: 01243816D
- * GitHub Username: [FRIEND'S USERNAME]
+ * GitHub Username: timothynukunu-bit
  * Programme: HND Electrical Engineering
  * Course: EEE 227 (PT) - Programming for Electrical Engineering
  * Level: 200
